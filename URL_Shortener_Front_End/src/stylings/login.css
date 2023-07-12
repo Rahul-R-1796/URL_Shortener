@@ -1,0 +1,19 @@
+.group {
+    margin: 0;
+    padding: 1%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #41B3A3(0, 128, 255); /* Blue border */
+    border-radius: 25px;
+    background-color:#659DBD; /* Gold background */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.centerPlace {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
